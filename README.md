@@ -1,7 +1,7 @@
 # Welcome to my App1 Repo
 ## This is the summary of my app
 Welcome *again*, pls spend time and evaluate my **app1**
-
+:1st_place_medal:
 Here are some extra tasks you should perform
 1. task1
 2. task2
@@ -30,7 +30,7 @@ B-->C;
 C-->D;
 D-->A;
 ```
-
+;) :-) 
 
 
 
